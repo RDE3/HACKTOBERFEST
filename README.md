@@ -1,7 +1,7 @@
 
  <h1 align="center" style="border: 0;">  Hacktober Fest 2022 </h1>
 
-<h2 align=center> Give a Star to This repo:fire::star:</h2>
+<h2 align=center> Give a Star to This repo:fire::star:</h2> 
 
 
 <p align="center">
